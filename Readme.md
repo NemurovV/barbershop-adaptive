@@ -1,0 +1,2 @@
+barbershop-adaptive
+Привет adaptive!
